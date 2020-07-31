@@ -1,0 +1,74 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+body {
+  font-family: "Courier New", Courier, monospace;
+  background: #2b3036;
+  color: #b2b6bd;
+}
+.nav {
+  color: #a0add5;
+  background-color: #1c212b;
+  li {
+    a {
+      color: #a0add5;
+    }
+  }
+}
+
+main {
+  .catalogue {
+
+    a {
+      color: #b2b6bd;
+      h1 {
+        color: #739a99;
+        font-family: "Courier New", Courier, monospace;
+      }
+      time {
+        color: #846d8f;
+        font-family: "Courier New", Courier, monospace;
+      }
+    }
+  }
+
+  .post-info {
+      font-family: "Courier New", Courier, monospace;
+  }
+  .post-title {
+      font-family: "Courier New", Courier, monospace;
+  }
+  .post {
+    h1, h2 {
+      color: #739a99;
+    }
+    figure {
+      background: light-gray;
+      border-radius: 10px;
+    }
+  }
+}
+
+.header {
+    h2 {
+      color: #a0add5;
+    }
+    
+    background-color: #1c212b;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.logo {
+    width: 150px;
+    display: inline-block;
+    margin: 0;
+}
+
+.site-name {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 2em;
+}
