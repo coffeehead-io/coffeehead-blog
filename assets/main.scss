@@ -60,11 +60,17 @@ main {
     display:flex;
     justify-content: center;
     align-items:center;
+
+    .blog-title {
+      color: #bf6165;
+    }
 }
 .logo {
     width: 150px;
     display: inline-block;
     margin: 0;
+    border-radius: 150px;
+    border: 3px solid #bf6165; 
 }
 
 .site-name {
