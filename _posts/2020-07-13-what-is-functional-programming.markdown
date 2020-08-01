@@ -3,7 +3,7 @@ layout: post
 title:  "What is Functional Programming?!"
 date:   2020-07-13 23:01:16 +0200
 categories: functional programming
-author: fp-dev
+author: c_h
 ---
 
 Some time ago I was Java Developer. One day I decided that I'd like to be Scala developer. I didn't have any previous experience with this language.
