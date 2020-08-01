@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+author: c_h
 permalink: /about/
 ---
 
