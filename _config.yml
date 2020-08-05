@@ -28,6 +28,7 @@ port: 4001
 twitter_username: jekyllrb
 github_username:  jekyll
 author: coffeehead.io
+google_analytics: UA-52900595-3
 # Build settings
 theme: tale
 plugins:
